@@ -1,5 +1,4 @@
-# # Название проекта
-Project_Python
+# # Project_Python
 ### Ссылка на Colab
 https://colab.research.google.com/drive/17bUq6EZqc5WDp9Qq-hQqXp8y2131Ekqr?usp=sharing
 #### Видео URL
